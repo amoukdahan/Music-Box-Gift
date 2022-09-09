@@ -1,5 +1,11 @@
 # Music-Box-Gift
-I created a music box as a early birthday gift for my girlfriend, using components such as DFPlayer, and Arduino Nano. It plays her favorite songs randomly each time the lid is lifted. I just need to make it look prettier by covering up those wires.
+
+Parts:
+- Arduino Nano
+- DFPlayer
+- Soldering stuff
+
+I built a music box that plays different songs each time the lid is lifted, and it's developed in C++.
 
 Final Product:
 
